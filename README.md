@@ -1,5 +1,6 @@
 # Rutgers Boot Camp Home Work #
-Homework Repository for Rutgers Data Science Boot Camp August 2017 Chort
+Homework Repository for Rutgers Data Science Boot Camp 
+August 2017 Chort
 
 1. Excel
 2. VBA
