@@ -16,3 +16,6 @@ August 2017 Chort
 12. JavaScript
 13. Interactive Visualizations and Dashboard
 14. D3
+15. Interactive Visualizations and Dashboard
+16. D3
+17. Mapping Web
