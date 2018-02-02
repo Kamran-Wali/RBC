@@ -19,3 +19,4 @@ August 2017 Chort
 15. Interactive Visualizations and Dashboard
 16. D3
 17. Mapping Web
+18. Tableau
